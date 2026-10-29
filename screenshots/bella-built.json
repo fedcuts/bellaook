@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Bella Point Suites & Restaurant | Eastleigh, Nairobi",
+      "hasCanvas": false,
+      "bodyTextLen": 3035,
+      "bodyTextHash": "ec1e0cd18d89abd3d5701d7e037c050a9adbb15ee75394a2c63a1e4523de93d3",
+      "bodyTextPrefix": "Skip to content Bella Point SUITES & RESTAURANT HOME RESTAURANT ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/bella-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Bella Point Suites & Restaurant | Eastleigh, Nairobi",
+      "hasCanvas": false,
+      "bodyTextLen": 3003,
+      "bodyTextHash": "7cdba645f7638abe83ac155373d6ce8d020a4d92cd1cb48176812d7f409cb434",
+      "bodyTextPrefix": "Skip to content Bella Point SUITES & RESTAURANT Open menu EASTLE",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/bella-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/bella-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}

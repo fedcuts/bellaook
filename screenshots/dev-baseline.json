@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "XAWAASH | Three fires. One spice. Eastleigh",
+      "hasCanvas": false,
+      "bodyTextLen": 1775,
+      "bodyTextHash": "2a720737f47f070acde2b98673335ca9de4d08c145a59f65382a918899fe7256",
+      "bodyTextPrefix": "SKIP xawaash MENU STONE SMASH RECIPE RESERVE TICKET Menu Stone S",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "XAWAASH | Three fires. One spice. Eastleigh",
+      "hasCanvas": false,
+      "bodyTextLen": 1743,
+      "bodyTextHash": "09e1ff50b6b914da09bdfeba0241812ee5d000d9bae5c7343cb3c47f170d9006",
+      "bodyTextPrefix": "SKIP xawaash TICKET Menu Stone Smash Recipe Reserve EASTLEIGH · ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

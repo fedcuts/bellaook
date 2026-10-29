@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Bella Point Suites & Restaurant | Eastleigh, Nairobi",
+      "hasCanvas": false,
+      "bodyTextLen": 2201,
+      "bodyTextHash": "bb93f1ac379dbf85a27bad43d7b4da84fd651270de8819d4f2f51a87e4868eca",
+      "bodyTextPrefix": "SKIP Bella Point MENU STONE SMASH RECIPE RESERVE TICKET ON NOW B",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Bella Point Suites & Restaurant | Eastleigh, Nairobi",
+      "hasCanvas": false,
+      "bodyTextLen": 2119,
+      "bodyTextHash": "a11b2957e6a2cbf670e2f85179cc23e450bd3c263880ca7301f266428756245e",
+      "bodyTextPrefix": "SKIP Bella Point TICKET ON NOW Bella anjera ORDER Menu Stone Sma",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
